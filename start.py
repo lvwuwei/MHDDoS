@@ -1465,7 +1465,7 @@ class ToolsConsole:
                   ' - All %d Methods\n'
                   '\n'
                   'Example:\n'
-                  'python start.py OVH https://www.oserinverstir.fr 1 10000 GoodProxy.txt 100 100'
+                  'python start.py OVH https://www.oserinverstir.fr 1 10000 GoodProxy.txt 100 1693'
                   '   L7: python3 %s <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>\n'
                   '   L4: python3 %s <method> <ip:port> <threads> <duration>\n'
                   '   L4 Proxied: python3 %s <method> <ip:port> <threads> <duration> <socks_type> <proxylist>\n'
